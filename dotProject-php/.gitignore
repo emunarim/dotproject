@@ -44,3 +44,6 @@ Temporary Items
 # Stuff from the Nova editor
 .nova
 .editorconfig
+
+# Credenciais -- nunca versionar
+.env
